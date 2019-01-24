@@ -14,6 +14,6 @@ And all these views are assigned different constraints for different orientation
 
 ___
 
-![PeerReview9.1](https://github.com/Ananta11/PeerReview9/raw/master/Common/ScreenShot1.png)
-![PeerReview9.2](https://github.com/Ananta11/PeerReview9/raw/master/Common/ScreenShot2.png)
+![PeerReview9.1](https://github.com/Ananta11/PeerReview9/raw/master/Common/Screenshot1.png)
+![PeerReview9.2](https://github.com/Ananta11/PeerReview9/raw/master/Common/Screenshot2.png)
 ---
